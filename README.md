@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hey there 👋
+
+🤵 _He/Him_  
+🎓 Bsc Natural Sciences Graduate from the University of Bath  
+🎯 Currently working on a Calendar App for Android built with Compose + Kotin  
+💭 Hope to build a game on top of my own game engine
+
+### Summary
+
 <!-- <div style="display:grid; grid:auto-flow/1fr 1fr 1fr;justify-content: start">
     <img style="grid-column:1/1;grid-row:1/1" width="390" src="metrics/general.svg">
     <img style="grid-column:1/1;grid-row:2/2" width="390" src="metrics/contributions.svg">

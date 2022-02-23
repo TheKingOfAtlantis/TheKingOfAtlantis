@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 🎯 Currently working on a Calendar App for Android built with Compose + Kotin  
 💭 Hope to build a game on top of my own game engine
 
-### Summary
 
+### Stats Summary
+<details>
+<summary>Click to expand!</summary>
 <!-- <div style="display:grid; grid:auto-flow/1fr 1fr 1fr;justify-content: start">
     <img style="grid-column:1/1;grid-row:1/1" width="390" src="metrics/general.svg">
     <img style="grid-column:1/1;grid-row:2/2" width="390" src="metrics/contributions.svg">
@@ -34,6 +36,6 @@ Here are some ideas to get you started:
 
 <img src="metrics/general.svg"><img src="metrics/contributions.svg">
 <img src="metrics/languages.svg"><img src="metrics/wakatime.svg">
-
+<details>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

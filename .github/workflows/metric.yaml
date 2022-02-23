@@ -37,6 +37,10 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/contributions.svg
+          token: ${{ secrets.GH_TOKEN }}
+          user: TheKingOfAtlantis
+          template: classic
+          base: ""
           config_timezone: Europe/London
           plugin_followup: yes
           plugin_followup_sections: repositories
@@ -50,6 +54,8 @@ jobs:
       - name: Languages
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics/languages.svg
+          token: ${{ secrets.GH_TOKEN }}
           user: TheKingOfAtlantis
           template: classic
           base: ""
@@ -75,7 +81,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_user: current

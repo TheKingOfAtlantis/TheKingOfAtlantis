@@ -2,9 +2,9 @@ name: Waka Readme
 
 on:
   # Update when we update the profile
-  # and then at 5AM UTC every day
+  # and then at 5AM/PM UTC every day
   schedule:
-    - cron: '0 5 * * *'
+    - cron: '0 5,17 * * *'
   workflow_dispatch:
 jobs:
   update-readme:

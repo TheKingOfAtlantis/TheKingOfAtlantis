@@ -54,8 +54,8 @@ Here are some ideas to get you started:
     <img style="grid-column:3/3;grid-row:1/3" width="390" src="metrics/achievements.svg">
 </div> -->
 
-<img src="metrics/general.svg"><img src="metrics/contributions.svg">
-<img src="metrics/languages.svg"><img src="metrics/wakatime.svg">
+<img width="390" src="metrics/general.svg"><img width="390" src="metrics/contributions.svg">
+<img width="390" src="metrics/languages.svg"><img width="390" src="metrics/wakatime.svg">
 </details>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%208%20mins-blue)

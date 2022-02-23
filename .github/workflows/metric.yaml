@@ -22,6 +22,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           plugin_lines: yes
           plugin_traffic: yes
+          config_padding: 20 # Fixes cropping of metadata at bottom
       - name: Achievements
         uses: lowlighter/metrics@latest
         with:

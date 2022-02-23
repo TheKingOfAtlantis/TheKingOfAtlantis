@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 
 <img src="metrics/general.svg"><img src="metrics/contributions.svg">
 <img src="metrics/languages.svg"><img src="metrics/wakatime.svg">
-<details>
+</details>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

@@ -2,9 +2,9 @@
 name: Metrics
 on:
   # Update when we update the profile
-  # and then at 5AM UTC every day
+  # and then at 5AM/PM UTC every day
   schedule: 
-     - cron: '0 5 * * *'
+     - cron: '0 5,17 * * *'
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}

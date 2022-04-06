@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 <img width="390" src="metrics/languages.svg"><img width="390" src="metrics/wakatime.svg">
 </details>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2039%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -118,5 +120,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2022 05:15:52 UTC
+ Last Updated on 06/04/2022 17:17:57 UTC
 <!--END_SECTION:waka-->

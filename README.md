@@ -60,6 +60,48 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2024%20mins-blue)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.21% 
+🌆 Daytime    38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+🌃 Evening    200 commits    █████████████████░░░░░░░░   70.18% 
+🌙 Night      35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.28%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
+Tuesday      14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.91% 
+Wednesday    46 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.14% 
+Thursday     118 commits    ██████████░░░░░░░░░░░░░░░   41.4% 
+Friday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.51% 
+Saturday     22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
+Sunday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.74%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -73,5 +115,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2022 06:06:38 UTC
+ Last Updated on 29/08/2022 17:22:50 UTC
 <!--END_SECTION:waka-->

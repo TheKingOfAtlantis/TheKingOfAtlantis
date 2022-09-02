@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <img width="390" src="metrics/languages.svg"><img width="390" src="metrics/wakatime.svg">
 </details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2024%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -89,16 +89,16 @@ Sunday       42 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   3 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           3 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Multitasker              3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 mins              █████████████████████████   100.0%
 
 ```
 
@@ -115,5 +115,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2022 17:22:59 UTC
+ Last Updated on 02/09/2022 06:01:35 UTC
 <!--END_SECTION:waka-->

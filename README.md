@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <img width="390" src="metrics/languages.svg"><img width="390" src="metrics/wakatime.svg">
 </details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm a Night 🦉** 
 
@@ -102,11 +102,7 @@ Enigma                   35 mins             ███████████�
 Multitasker              3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.05%
 
 💻 Operating System: 
-Windows                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
-string_view              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.26% 
-format                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.06% 
-vector                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.97% 
-source_location          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.97%
+Windows                  39 mins             █████████████████████████   100.0%
 
 ```
 
@@ -123,5 +119,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 05:35:02 UTC
+ Last Updated on 04/09/2022 17:19:35 UTC
 <!--END_SECTION:waka-->

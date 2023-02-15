@@ -89,17 +89,16 @@ Sunday           0 commits       ░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JSON                     52 mins             ████████████████████████░   97.84 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sksulai.co.uk            53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 ```
 
@@ -116,5 +115,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2023 17:14:55 UTC
+ Last Updated on 15/02/2023 05:15:00 UTC
 <!--END_SECTION:waka-->

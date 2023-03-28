@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <img width="390" src="metrics/languages.svg"><img width="390" src="metrics/wakatime.svg">
 </details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs%2026%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -114,5 +114,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/03/2023 05:14:02 UTC
+ Last Updated on 28/03/2023 17:13:28 UTC
 <!--END_SECTION:waka-->

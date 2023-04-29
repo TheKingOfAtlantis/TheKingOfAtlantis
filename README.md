@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <img width="390" src="metrics/languages.svg"><img width="390" src="metrics/wakatime.svg">
 </details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%2059%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -87,16 +87,16 @@ Sunday                   586 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C++                      1 hr 10 mins        █████████████████████████   100.00 % 
+C++                      1 hr 36 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 10 mins        █████████████████████████   100.00 % 
+Visual Studio            1 hr 36 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Enigma                   1 hr 10 mins        █████████████████████████   100.00 % 
+Enigma                   1 hr 36 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -112,5 +112,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/04/2023 17:12:50 UTC
+ Last Updated on 29/04/2023 05:12:28 UTC
 <!--END_SECTION:waka-->

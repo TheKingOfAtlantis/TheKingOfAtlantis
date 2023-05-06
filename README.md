@@ -87,16 +87,16 @@ Sunday                   586 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C++                      26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Enigma                   26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -112,5 +112,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2023 05:12:19 UTC
+ Last Updated on 06/05/2023 17:11:37 UTC
 <!--END_SECTION:waka-->

@@ -87,17 +87,16 @@ Sunday                   593 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 2 hrs 41 mins       ██████████████████████░░░   89.77 % 
-JSON                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Master's Project         2 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -113,5 +112,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2023 17:11:16 UTC
+ Last Updated on 01/10/2023 05:12:38 UTC
 <!--END_SECTION:waka-->

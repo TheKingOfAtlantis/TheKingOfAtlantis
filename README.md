@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <img width="390" src="metrics/languages.svg"><img width="390" src="metrics/wakatime.svg">
 </details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-583%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%201%20min-blue)
 
 **I'm an Early 🐤** 
 
@@ -87,16 +87,20 @@ Sunday                   596 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      3 hrs 13 mins       ███████████████████░░░░░░   77.53 % 
+CMake                    48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LinearAlgebra            4 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -112,5 +116,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/12/2023 17:13:28 UTC
+ Last Updated on 22/12/2023 05:13:47 UTC
 <!--END_SECTION:waka-->

@@ -87,19 +87,16 @@ Sunday                   596 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Kotlin                   44 mins             ████████████████████░░░░░   79.12 % 
-TOML                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Multitasker              56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -115,5 +112,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2024 17:12:51 UTC
+ Last Updated on 11/01/2024 05:13:56 UTC
 <!--END_SECTION:waka-->

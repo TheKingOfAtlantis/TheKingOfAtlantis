@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <img width="390" src="metrics/languages.svg"><img width="390" src="metrics/wakatime.svg">
 </details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C000%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C001%20hrs%201%20min-blue)
 
 **I'm an Early 🐤** 
 
@@ -116,5 +116,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2024 05:18:17 UTC
+ Last Updated on 29/11/2024 17:17:04 UTC
 <!--END_SECTION:waka-->

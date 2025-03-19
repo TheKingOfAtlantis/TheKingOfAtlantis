@@ -71,22 +71,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 74.64%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">93%</span>
+                                <div class="bar" style="width: 75.19999999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">94%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C++</span>
-                                <div class="bar" style="width: 5.215999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 4.592%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Git</span>
-                                <div class="bar" style="width: 0.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.17600000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 0.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.023999999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>

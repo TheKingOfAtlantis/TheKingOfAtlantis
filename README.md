@@ -87,18 +87,16 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 7 mins              ██████████████████████░░░   87.44 % 
-Git                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              ██████████████████████░░░   87.94 % 
-Neovim                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Sothaerlia               8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -114,5 +112,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2025 17:13:47 UTC
+ Last Updated on 07/09/2025 05:17:08 UTC
 <!--END_SECTION:waka-->

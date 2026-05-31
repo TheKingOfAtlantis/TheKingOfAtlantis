@@ -60,6 +60,45 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C176%20hrs%2038%20mins-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                625 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+🌆 Daytime                1874 commits        ███████████░░░░░░░░░░░░░░   44.01 % 
+🌃 Evening                1402 commits        ████████░░░░░░░░░░░░░░░░░   32.93 % 
+🌙 Night                  357 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   259 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Tuesday                  853 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Wednesday                459 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Thursday                 623 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Friday                   232 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Saturday                 812 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Sunday                   1020 commits        ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -73,5 +112,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2026 08:14:51 UTC
+ Last Updated on 31/05/2026 18:02:50 UTC
 <!--END_SECTION:waka-->

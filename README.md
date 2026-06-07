@@ -58,8 +58,6 @@ Here are some ideas to get you started:
 <img width="390" src="metrics/languages.svg"><img width="390" src="metrics/wakatime.svg">
 </details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C176%20hrs%2038%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -112,5 +110,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2026 18:05:52 UTC
+ Last Updated on 07/06/2026 18:04:41 UTC
 <!--END_SECTION:waka-->

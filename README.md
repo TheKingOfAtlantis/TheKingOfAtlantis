@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <img width="390" src="metrics/languages.svg"><img width="390" src="metrics/wakatime.svg">
 </details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C199%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C198%20hrs%2053%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -87,16 +87,18 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   7 mins              █████████████░░░░░░░░░░░░   50.19 % 
+C++                      7 mins              ████████████░░░░░░░░░░░░░   49.79 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -112,5 +114,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/07/2026 18:55:35 UTC
+ Last Updated on 07/07/2026 08:23:43 UTC
 <!--END_SECTION:waka-->

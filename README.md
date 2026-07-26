@@ -87,18 +87,18 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C#                       8 hrs 28 mins       ████████████████████████░   97.81 % 
-XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+C#                       5 hrs 25 mins       █████████████████████████   99.39 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PcMQTT                   8 hrs 39 mins       █████████████████████████   100.00 % 
+PcMQTT                   5 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -114,5 +114,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 17:58:48 UTC
+ Last Updated on 26/07/2026 18:01:12 UTC
 <!--END_SECTION:waka-->

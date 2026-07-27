@@ -58,7 +58,9 @@ Here are some ideas to get you started:
 <img width="390" src="metrics/languages.svg"><img width="390" src="metrics/wakatime.svg">
 </details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C212%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-920%20hrs%2045%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2012%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -101,6 +103,12 @@ PcMQTT                   5 hrs 27 mins       ███████████�
 Windows                  5 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -114,5 +122,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 08:30:53 UTC
+ Last Updated on 27/07/2026 18:24:55 UTC
 <!--END_SECTION:waka-->

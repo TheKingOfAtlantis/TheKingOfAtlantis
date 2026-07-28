@@ -58,10 +58,6 @@ Here are some ideas to get you started:
 <img width="390" src="metrics/languages.svg"><img width="390" src="metrics/wakatime.svg">
 </details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-920%20hrs%2045%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2012%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -89,18 +85,18 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C#                       5 hrs 25 mins       █████████████████████████   99.39 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+C#                       2 hrs 21 mins       █████████████████████████   98.61 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PcMQTT                   5 hrs 27 mins       █████████████████████████   100.00 % 
+PcMQTT                   2 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -122,5 +118,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 18:24:55 UTC
+ Last Updated on 28/07/2026 07:38:22 UTC
 <!--END_SECTION:waka-->

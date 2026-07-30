@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 <img width="390" src="metrics/languages.svg"><img width="390" src="metrics/wakatime.svg">
 </details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-920%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-921%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2022%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,24 +89,40 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C#                       1 hr 45 mins        █████████████████████████   99.03 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+C#                       15 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
+VS Code                  8 mins              █████████████░░░░░░░░░░░░   52.14 % 
+Copilot CLI              7 mins              ████████████░░░░░░░░░░░░░   47.86 % 
 
 🐱‍💻 Projects: 
-PcMQTT                   1 hr 47 mins        █████████████████████████   100.00 % 
+PcMQTT                   15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 9 mins (60.69%)
+
+✍️ 24 lines written by AI, 4 lines written by hand (85.71% AI-written)
+
+🔤 0 Input Tokens, 12,399 Output Tokens
+
+💵 $0.34 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 3 AI Prompts
+
+GPT                      24 lines            █████████████████████████   100.00 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 85.71% of written lines came from AI
+📝 Concise Prompter — average 137 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 41.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -122,5 +138,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 07:34:10 UTC
+ Last Updated on 30/07/2026 18:15:56 UTC
 <!--END_SECTION:waka-->

@@ -89,25 +89,25 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C#                       15 mins             █████████████████████████   100.00 % 
+C#                       1 hr                █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████░░░░░░░░░░░░   52.14 % 
-Copilot CLI              7 mins              ████████████░░░░░░░░░░░░░   47.86 % 
+VS Code                  52 mins             ██████████████████████░░░   87.54 % 
+Copilot CLI              7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
 
 🐱‍💻 Projects: 
-PcMQTT                   15 mins             █████████████████████████   100.00 % 
+PcMQTT                   1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+Windows                  1 hr                █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (60.69%)
+⏱ AI Coding Time: 9 mins (15.8%)
 
-✍️ 24 lines written by AI, 4 lines written by hand (85.71% AI-written)
+✍️ 24 lines written by AI, 70 lines written by hand (25.53% AI-written)
 
 🔤 0 Input Tokens, 12,399 Output Tokens
 
@@ -119,10 +119,10 @@ GPT                      24 lines            ███████████�
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.71% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 25.53% of written lines came from AI
 📝 Concise Prompter — average 137 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 41.46% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 87.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -138,5 +138,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 18:21:05 UTC
+ Last Updated on 01/08/2026 07:27:36 UTC
 <!--END_SECTION:waka-->

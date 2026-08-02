@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <img width="390" src="metrics/languages.svg"><img width="390" src="metrics/wakatime.svg">
 </details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-921%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-921%20hrs%2053%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2022%20mins-blue?style=flat)
 
@@ -89,25 +89,25 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C#                       1 hr                █████████████████████████   100.00 % 
+C#                       1 hr 7 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  52 mins             ██████████████████████░░░   87.54 % 
-Copilot CLI              7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+VS Code                  1 hr                ██████████████████████░░░   88.95 % 
+Copilot CLI              7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
 
 🐱‍💻 Projects: 
-PcMQTT                   1 hr                █████████████████████████   100.00 % 
+PcMQTT                   1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr                █████████████████████████   100.00 % 
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (15.8%)
+⏱ AI Coding Time: 9 mins (14.01%)
 
-✍️ 24 lines written by AI, 70 lines written by hand (25.53% AI-written)
+✍️ 24 lines written by AI, 93 lines written by hand (20.51% AI-written)
 
 🔤 0 Input Tokens, 12,399 Output Tokens
 
@@ -119,10 +119,10 @@ GPT                      24 lines            ███████████�
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 25.53% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 20.51% of written lines came from AI
 📝 Concise Prompter — average 137 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 87.37% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 89.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -138,5 +138,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 18:00:28 UTC
+ Last Updated on 02/08/2026 18:01:54 UTC
 <!--END_SECTION:waka-->

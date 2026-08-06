@@ -89,40 +89,22 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C#                       1 hr 7 mins         █████████████████████████   100.00 % 
+C#                       52 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr                ██████████████████████░░░   88.95 % 
-Copilot CLI              7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+VS Code                  52 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PcMQTT                   1 hr 7 mins         █████████████████████████   100.00 % 
+PcMQTT                   52 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
+Windows                  52 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (14.01%)
-
-✍️ 24 lines written by AI, 93 lines written by hand (20.51% AI-written)
-
-🔤 0 Input Tokens, 12,399 Output Tokens
-
-💵 $0.34 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 3 AI Prompts
-
-GPT                      24 lines            █████████████████████████   100.00 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 20.51% of written lines came from AI
-📝 Concise Prompter — average 137 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 89.7% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -138,5 +120,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 18:22:03 UTC
+ Last Updated on 06/08/2026 07:38:52 UTC
 <!--END_SECTION:waka-->

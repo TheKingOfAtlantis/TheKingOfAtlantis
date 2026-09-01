@@ -89,16 +89,18 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JSON                     0 secs              █████████████████████████   100.00 % 
+JSON                     2 mins              ███████████████████████░░   93.14 % 
+C#                       0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OrcaSlicer-ResinSupports 0 secs              █████████████████████████   100.00 % 
+PcMQTT                   2 mins              ███████████████████████░░   93.66 % 
+OrcaSlicer-ResinSupports 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -120,5 +122,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 21:45:52 UTC
+ Last Updated on 01/09/2026 09:47:10 UTC
 <!--END_SECTION:waka-->

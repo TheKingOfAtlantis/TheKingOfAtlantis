@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <img width="390" src="metrics/languages.svg"><img width="390" src="metrics/wakatime.svg">
 </details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-921%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-921%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2022%20mins-blue?style=flat)
 
@@ -89,18 +89,21 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JSON                     2 mins              ███████████████████████░░   93.14 % 
-C#                       0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+JSON                     13 mins             ████████████░░░░░░░░░░░░░   47.13 % 
+Markdown                 9 mins              █████████░░░░░░░░░░░░░░░░   34.13 % 
+Batchfile                3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+CMake                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  28 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PcMQTT                   2 mins              ███████████████████████░░   93.66 % 
-OrcaSlicer-ResinSupports 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+OrcaSlicer-ResinSupports 26 mins             ███████████████████████░░   92.14 % 
+PcMQTT                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  28 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -122,5 +125,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 09:47:10 UTC
+ Last Updated on 02/09/2026 09:20:11 UTC
 <!--END_SECTION:waka-->

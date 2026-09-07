@@ -89,21 +89,22 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JSON                     13 mins             ████████████░░░░░░░░░░░░░   46.85 % 
-Markdown                 9 mins              █████████░░░░░░░░░░░░░░░░   34.31 % 
-Batchfile                3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-CMake                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+JSON                     13 mins             ██████████░░░░░░░░░░░░░░░   38.97 % 
+Markdown                 9 mins              ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+Python                   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Batchfile                3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+CMake                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.00 % 
+VS Code                  34 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OrcaSlicer-ResinSupports 26 mins             ███████████████████████░░   92.10 % 
-PcMQTT                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+OrcaSlicer-ResinSupports 26 mins             ███████████████████░░░░░░   76.42 % 
+ms-analysis              5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+PcMQTT                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
+Windows                  34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -125,5 +126,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 18:52:56 UTC
+ Last Updated on 07/09/2026 09:59:03 UTC
 <!--END_SECTION:waka-->

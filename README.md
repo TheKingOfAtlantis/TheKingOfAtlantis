@@ -89,23 +89,21 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   23 mins             ███████████░░░░░░░░░░░░░░   45.78 % 
-JSON                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-Markdown                 9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Batchfile                3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-CMake                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+C++                      41 mins             ████████████████░░░░░░░░░   63.26 % 
+Python                   23 mins             █████████░░░░░░░░░░░░░░░░   35.75 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OrcaSlicer-ResinSupports 26 mins             █████████████░░░░░░░░░░░░   50.86 % 
-ms-analysis              23 mins             ███████████░░░░░░░░░░░░░░   45.49 % 
-PcMQTT                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-MiniDec                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+main                     41 mins             ████████████████░░░░░░░░░   63.26 % 
+ms-analysis              23 mins             █████████░░░░░░░░░░░░░░░░   35.51 % 
+MiniDec                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 💻 Operating System: 
-Windows                  51 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -127,5 +125,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 19:46:16 UTC
+ Last Updated on 09/09/2026 09:26:03 UTC
 <!--END_SECTION:waka-->

@@ -89,22 +89,22 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C++                      1 hr 6 mins         ███████████████░░░░░░░░░░   61.06 % 
-Python                   23 mins             █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-CMake                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+C++                      1 hr 6 mins         ████████████████░░░░░░░░░   64.50 % 
+Python                   18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+CMake                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-main                     1 hr 24 mins        ███████████████████░░░░░░   77.88 % 
-ms-analysis              23 mins             █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-MiniDec                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+main                     1 hr 24 mins        █████████████████████░░░░   82.26 % 
+ms-analysis              17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+MiniDec                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 43 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -126,5 +126,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 19:13:23 UTC
+ Last Updated on 14/09/2026 10:21:44 UTC
 <!--END_SECTION:waka-->

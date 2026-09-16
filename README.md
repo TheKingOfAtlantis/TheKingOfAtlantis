@@ -58,9 +58,59 @@ Here are some ideas to get you started:
 <img width="390" src="metrics/languages.svg"><img width="390" src="metrics/wakatime.svg">
 </details>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-924%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-925%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2022%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                630 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+🌆 Daytime                1903 commits        ███████████░░░░░░░░░░░░░░   44.07 % 
+🌃 Evening                1425 commits        ████████░░░░░░░░░░░░░░░░░   33.00 % 
+🌙 Night                  360 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   259 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Tuesday                  858 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Wednesday                485 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Thursday                 633 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Friday                   247 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Saturday                 816 commits         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Sunday                   1020 commits        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+C++                      1 hr 21 mins        ███████████████████░░░░░░   76.24 % 
+CMake                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+
+🔥 Editors: 
+VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+main                     1 hr 43 mins        ████████████████████████░   96.84 % 
+ms-analysis              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+
+💻 Operating System: 
+Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 **I Mostly Code in Kotlin** 
 
@@ -75,5 +125,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 09:42:49 UTC
+ Last Updated on 16/09/2026 19:52:15 UTC
 <!--END_SECTION:waka-->

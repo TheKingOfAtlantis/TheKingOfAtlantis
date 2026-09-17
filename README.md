@@ -89,21 +89,20 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C++                      1 hr 21 mins        ███████████████████░░░░░░   76.24 % 
-CMake                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+C++                      1 hr 21 mins        ████████████████████░░░░░   78.73 % 
+CMake                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-main                     1 hr 43 mins        ████████████████████████░   96.84 % 
-ms-analysis              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+main                     1 hr 43 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 43 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -125,5 +124,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 19:52:15 UTC
+ Last Updated on 17/09/2026 09:51:22 UTC
 <!--END_SECTION:waka-->

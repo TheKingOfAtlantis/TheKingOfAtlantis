@@ -89,20 +89,18 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C++                      1 hr 21 mins        ████████████████████░░░░░   78.73 % 
-CMake                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+C++                      1 hr 36 mins        █████████████████████████   99.08 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-main                     1 hr 43 mins        █████████████████████████   100.00 % 
+main                     1 hr 37 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 43 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -124,5 +122,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 20:02:16 UTC
+ Last Updated on 18/09/2026 09:25:45 UTC
 <!--END_SECTION:waka-->

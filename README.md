@@ -89,16 +89,16 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C++                      21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-main                     21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -120,5 +120,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 12:04:52 UTC
+ Last Updated on 06/10/2026 11:50:06 UTC
 <!--END_SECTION:waka-->

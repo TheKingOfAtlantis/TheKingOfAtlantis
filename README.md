@@ -107,18 +107,18 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in Kotlin** 
+**I Mostly Code in Python** 
 
 ```text
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-C#                       3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-CMake                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+C#                       3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+CMake                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 07/10/2026 11:33:19 UTC
+ Last Updated on 07/10/2026 21:48:26 UTC
 <!--END_SECTION:waka-->

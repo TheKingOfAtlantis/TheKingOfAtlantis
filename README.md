@@ -89,16 +89,20 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 14 mins        ██████████████████████░░░   88.05 % 
+C++                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 25 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+u1-adaptive-pa-autocal   1 hr 18 mins        ███████████████████████░░   91.82 % 
+main                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -120,5 +124,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 21:48:26 UTC
+ Last Updated on 08/10/2026 11:48:39 UTC
 <!--END_SECTION:waka-->

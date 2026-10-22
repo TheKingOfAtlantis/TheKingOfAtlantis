@@ -89,16 +89,21 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-OpenSCAD                 2 hrs 1 min         █████████████████████████   100.00 % 
+OpenSCAD                 2 hrs 1 min         ██████████████████████░░░   89.55 % 
+Batchfile                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+C++                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+CMake                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  2 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Master Refill Spool      2 hrs 1 min         █████████████████████████   100.00 % 
+Master Refill Spool      2 hrs 1 min         ██████████████████████░░░   89.55 % 
+OrcaSlicer               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 💻 Operating System: 
-Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -120,5 +125,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 20:28:47 UTC
+ Last Updated on 22/10/2026 09:52:46 UTC
 <!--END_SECTION:waka-->

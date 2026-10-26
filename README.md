@@ -62,6 +62,56 @@ Here are some ideas to get you started:
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2022%20mins-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                630 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+🌆 Daytime                1903 commits        ███████████░░░░░░░░░░░░░░   44.07 % 
+🌃 Evening                1425 commits        ████████░░░░░░░░░░░░░░░░░   33.00 % 
+🌙 Night                  360 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   259 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Tuesday                  858 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Wednesday                485 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Thursday                 633 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Friday                   247 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Saturday                 816 commits         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Sunday                   1020 commits        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+OpenSCAD                 1 hr 10 mins        █████████████████████░░░░   83.25 % 
+Batchfile                7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+C++                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+CMake                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+
+🔥 Editors: 
+VS Code                  1 hr 24 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Master Refill Spool      1 hr 10 mins        █████████████████████░░░░   83.25 % 
+OrcaSlicer               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+
+💻 Operating System: 
+Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -75,5 +125,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 10:48:02 UTC
+ Last Updated on 26/10/2026 21:24:14 UTC
 <!--END_SECTION:waka-->

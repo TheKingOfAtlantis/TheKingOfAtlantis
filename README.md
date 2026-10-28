@@ -89,27 +89,43 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-OpenSCAD                 1 hr 10 mins        █████████████████████░░░░   83.25 % 
-Batchfile                7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-C++                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-CMake                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Batchfile                7 mins              ██████████░░░░░░░░░░░░░░░   40.08 % 
+C++                      3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+CMake                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+XML                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+C#                       1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 
 🔥 Editors: 
-VS Code                  1 hr 24 mins        █████████████████████████   100.00 % 
+VS Code                  15 mins             ██████████████████████░░░   86.30 % 
+Copilot CLI              2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 
 🐱‍💻 Projects: 
-Master Refill Spool      1 hr 10 mins        █████████████████████░░░░   83.25 % 
-OrcaSlicer               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+OrcaSlicer               10 mins             ██████████████░░░░░░░░░░░   57.20 % 
+Loupedeck-AudioControlPlu3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Unknown Project          3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
 
 💻 Operating System: 
-Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 mins (13.7%)
+
+✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 316 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -125,5 +141,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 21:08:39 UTC
+ Last Updated on 28/10/2026 11:00:45 UTC
 <!--END_SECTION:waka-->

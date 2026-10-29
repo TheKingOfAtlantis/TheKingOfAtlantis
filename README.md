@@ -89,31 +89,26 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Batchfile                7 mins              ██████████░░░░░░░░░░░░░░░   40.08 % 
-C++                      3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-CMake                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-XML                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-C#                       1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+XML                      2 mins              ████████████████░░░░░░░░░   63.67 % 
+C#                       1 min               █████████░░░░░░░░░░░░░░░░   36.33 % 
 
 🔥 Editors: 
-VS Code                  15 mins             ██████████████████████░░░   86.30 % 
-Copilot CLI              2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Copilot CLI              2 mins              ████████████████░░░░░░░░░   63.67 % 
+VS Code                  1 min               █████████░░░░░░░░░░░░░░░░   36.33 % 
 
 🐱‍💻 Projects: 
-OrcaSlicer               10 mins             ██████████████░░░░░░░░░░░   57.20 % 
-Loupedeck-AudioControlPlu3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Unknown Project          3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Loupedeck-AudioControlPlu3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (13.7%)
+⏱ AI Coding Time: 2 mins (63.67%)
 
-✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -122,7 +117,7 @@ Windows                  17 mins             ███████████�
 🧠 1 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
 📝 Concise Prompter — average 316 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
@@ -141,5 +136,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 21:32:09 UTC
+ Last Updated on 29/10/2026 11:20:21 UTC
 <!--END_SECTION:waka-->

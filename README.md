@@ -89,26 +89,30 @@ Sunday                   1020 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-XML                      2 mins              ████████████████░░░░░░░░░   63.67 % 
-C#                       1 min               █████████░░░░░░░░░░░░░░░░   36.33 % 
+C++                      31 mins             █████████████████████░░░░   84.50 % 
+XML                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+C#                       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+CMake                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🔥 Editors: 
-Copilot CLI              2 mins              ████████████████░░░░░░░░░   63.67 % 
-VS Code                  1 min               █████████░░░░░░░░░░░░░░░░   36.33 % 
+VS Code                  34 mins             ███████████████████████░░   93.42 % 
+Copilot CLI              2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 
 🐱‍💻 Projects: 
-Loupedeck-AudioControlPlu3 mins              █████████████████████████   100.00 % 
+main                     33 mins             ██████████████████████░░░   89.66 % 
+Loupedeck-AudioControlPlu3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  37 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (63.67%)
+⏱ AI Coding Time: 2 mins (6.58%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 74 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -117,7 +121,7 @@ Windows                  3 mins              ███████████�
 🧠 1 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 316 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
@@ -136,5 +140,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 21:24:27 UTC
+ Last Updated on 31/10/2026 10:45:04 UTC
 <!--END_SECTION:waka-->
